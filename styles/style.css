@@ -1,0 +1,12 @@
+body {
+  padding-top: 50px;
+}
+.welcome-window {
+  text-align: center;
+}
+
+.comics {
+	text-align:center;
+	width: 500px;
+    margin: 0 auto;
+}
